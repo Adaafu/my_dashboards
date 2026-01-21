@@ -1,1 +1,1 @@
-
+Performed exploratory data analysis on the 2024 Unified Tertiary Matriculation Examination (UTME) results released by JAMB, covering 5000 candidates registered in various public and private schools in FCT, Abuja, Nigeria.
